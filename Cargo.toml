@@ -1,5 +1,5 @@
 [package]
-name = "slash_commands_example"
+name = "slash_commands_example1"
 version = "0.1.0"
 edition = "2021"
 publish = false
